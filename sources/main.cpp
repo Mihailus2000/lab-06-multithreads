@@ -3,7 +3,6 @@
 #include <thread>
 #include <cstdlib>
 #include <boost/log/trivial.hpp>
-#include <csignal>
 #include <boost/log/sinks.hpp>
 #include <boost/log/utility/setup.hpp>
 #include "../third-party/PicoSHA2/picosha2.h"
